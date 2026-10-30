@@ -87,13 +87,16 @@ php artisan serve
 http://127.0.0.1:8000
 ```
 
-## Screenshot Website
+## Screenshot
 
-Screenshot website disimpan dalam folder `screenshots`.
+### 1. Halaman Beranda
+![Beranda](screenshots/beranda.png)
 
-- Beranda: `screenshots/beranda.png`
-- Daftar Destinasi: `screenshots/daftar-destinasi.png`
-- Detail Destinasi: `screenshots/detail-destinasi.png`
+### 2. Daftar Destinasi
+![Daftar Destinasi](screenshots/daftar-destinasi.png)
+
+### 3. Detail Destinasi
+![Detail Destinasi](screenshots/detail-destinasi.png)
 
 ## Catatan
 
